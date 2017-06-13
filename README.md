@@ -6,7 +6,7 @@ Install this template:
 
 
 Create a new project using this template:
-<pre><code>dotnet new euler [Problem number]</code></pre>
+<pre><code>dotnet new euler -n [Problem number]</code></pre>
 
 
 Uninstall this template (re-initializes .NET Core environment):
