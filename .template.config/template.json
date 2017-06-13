@@ -1,0 +1,12 @@
+{
+"author": "Marco Labarile",
+"classifications": [ "Console" ],
+"name": "Project Euler Problem Template",
+"identity": "ProjectEuler.ProblemTemplate",
+"shortName": "euler",
+"tags": {
+    "language": "C#"
+},
+"sourceName": "ProjectEuler.Template",
+"preferNameDirectory" : "true"
+}
