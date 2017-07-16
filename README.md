@@ -1,5 +1,5 @@
 # ProjectEuler.Template
-.NET Core + vscode template for programs solving Project Euler problems.
+.NET Core template for programs solving Project Euler problems.
 
 Install this template:
 <pre><code>dotnet new --install [Path to 'Project' folder]</code></pre>
